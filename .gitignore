@@ -1,0 +1,10 @@
+#Files to ignore:
+
+#Excel files
+*.xlsx
+*.xls
+
+#Image files
+*.bmp
+*.jpeg
+*.png
